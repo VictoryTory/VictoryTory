@@ -8,7 +8,7 @@
 I have experience working with teams to build effective, cutting-edge websites that engage customers and drive business results. I am well versed in design standards and user preferences. I excel at project management, team collaboration, and independent problem solving. I am a highly organized multi-tasker with experience in project planning, design refinement, and code review. I have a proven track record of developing consumer-facing websites using HTML, CSS, Saas, Less, PHP, JavaScript, and React. Focused on creating clean, reliable code with exceptional security.
 
 # 📩 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2CA5E0?style=for-the-badge&logo=linkedIn&logoColor=white)](/in/viktoriia-dzisiak-845b13191/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2CA5E0?style=for-the-badge&logo=linkedIn&logoColor=white)]([/in/viktoriia-dzisiak-845b13191/](https://www.linkedin.com/in/viktoriia-dzisiak-845b13191/)) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ViktoriaNox) 
 
 
